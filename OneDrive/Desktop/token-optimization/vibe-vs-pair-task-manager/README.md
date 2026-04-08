@@ -47,3 +47,5 @@ This project compares two approaches to building a Task Manager app:
 ## 🎯 Conclusion
 Vibe coding is best for speed and prototyping.  
 AI pair programming is better for learning, debugging, and real-world development.
+
+Submission branch update
